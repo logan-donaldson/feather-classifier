@@ -3,4 +3,4 @@ This demo originates from my group's deep learning project titled "<b>Fine-grain
 
 The feather image dataset can be found [here](https://github.com/feathers-dataset/feathersv1-dataset).
 
-In this repository is a brief 2-page paper summarizing our results. The paper also includes out citations.
+In this repository is a brief 2-page paper summarizing our results. The paper also includes our citations.
